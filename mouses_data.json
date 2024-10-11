@@ -1,0 +1,26 @@
+[
+  {
+    "name": "G305 Wireless",
+    "company": "Logitech",
+    "cost": 2899,
+    "description": "HERO sensor with 12000 DPI resolution\nLIGHTSPEED wireless technology with a 1 ms report rate\nUSB port report rate: 1000 Hz (1 ms)\nWeight - 100 grams\n\n shape similar to soap but very comfortable for small and medium hands",
+    "rating": 8.2,
+    "photo": "https://content1.rozetka.com.ua/goods/images/big/252395009.jpg"
+  },
+  {
+    "name": "Souris Lapins Cretins BWAAAAH!",
+    "company": "SteelSeries",
+    "cost": 199,
+    "description": "Connection:Wired\nCountry of manufacture:China\nMouse size:Small\nInterface:USB\nAdditional functions:The buttons are designed for 1 million clicks\nWeight: 79 g",
+    "rating": 9.2,
+    "photo": "https://content.rozetka.com.ua/goods/images/big/10956217.jpg"
+  },
+  {
+    "name": "DeathAdder V3 PRO",
+    "company": "Razer",
+    "cost": 9289,
+    "description": "Connection:Combining\nPower source:Proprietary accumulator\nCountry of manufacture:China\nMouse size:Big\nInterface:MicroUSB\n2.4 GHz USB adapter",
+    "rating": 9.4,
+    "photo": "https://content2.rozetka.com.ua/goods/images/big/472015285.jpg"
+  }
+]

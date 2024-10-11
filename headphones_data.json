@@ -1,0 +1,18 @@
+[
+  {
+    "name": "G435 LIGHTSPEED",
+    "company": "Logitech",
+    "cost": 4499,
+    "description": "Headphone type:Full size\nHeadphone frequency range Hz:20 Hz - 20,000 Hz\nWeight: 165 g \n Cool headphones but sometimes ears hurt",
+    "rating": 7.2,
+    "photo": "https://content2.rozetka.com.ua/goods/images/big/358049497.jpg"
+  },
+  {
+    "name": "AirPods Pro with MagSafe Case USB-C (2nd gen)",
+    "company": "Apple",
+    "cost": 11499,
+    "description": "Headphone type:TWS (2 separately)\nFeatures:Apple compatibility,With active noise reduction,With moisture protection\nConnection type:Wireless\nMicrophone:Built-in\nConnection interface:Bluetooth 5.3",
+    "rating": 8.4,
+    "photo": "https://content.rozetka.com.ua/goods/images/big/365137069.jpg"
+  }
+]
